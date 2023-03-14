@@ -18,7 +18,7 @@ alexandra = Chatbot(config={
     'password':'Psalm16:11'
 })
 
-# creating the text to speech engine object
+# creating greeting for user
 greeting = 'Hello! My name is Alexandra.'
 print(greeting)
 engine.say(greeting)
