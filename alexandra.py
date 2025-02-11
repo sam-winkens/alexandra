@@ -14,8 +14,8 @@ engine.setProperty('voice', voices[1].id)
 
 # creating Alexandra object with my account configuration
 alexandra = Chatbot(config={
-    'email':'sdwinkens2005@gmail.com',
-    'password':'Psalm16:11'
+    'email':<Insert Email>,
+    'password':<Insert Password>
 })
 
 # creating greeting for user
